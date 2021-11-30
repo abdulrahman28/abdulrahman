@@ -1,0 +1,6 @@
+Delay	KEYWORD1
+On_pin	KEYWORD1
+second	KEYWORD2
+minute	KEYWORD2
+hour	KEYWORD2
+millisecond	KEYWORD2
