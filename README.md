@@ -1,2 +1,2 @@
 # Abdulrahman
-Contain all the functions for my work
+Includes my library functions for embedded design
